@@ -1,0 +1,6 @@
+
+301/Coke/70/
+302/Cold Coffee/65/
+303/Water/25/
+304/Ice-Cream/55/
+305/Shake/80/
